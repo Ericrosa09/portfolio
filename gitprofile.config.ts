@@ -52,9 +52,9 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
-    description: '',
-    imageURL: '',
+    title: 'Eric Rosa',
+    description: 'The official portfolio of Eric Rosa.',
+    imageURL: 'https://avatars.githubusercontent.com/u/70768775?v=4',
   },
   social: {
     linkedin: '',
