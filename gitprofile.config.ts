@@ -54,7 +54,7 @@ const CONFIG = {
   seo: {
     title: 'Eric Rosa',
     description: 'The official portfolio of Eric Rosa.',
-    imageURL: 'https://avatars.githubusercontent.com/u/70768775?v=4',
+    imageURL: 'https://cdn.discordapp.com/avatars/937134360824524920/d32a1ca8e5af52dc89ad413af3c162bd.png?size=512',
   },
   social: {
     linkedin: '',
